@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sakshi Gaud</h1>
-<h3 align="center">A passionate frontend developer and Enthusiastic learner from India.</h3>
+<h3 align="center">A passionate Cyber Security Enthusiastic, Lifetime learner from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi-brahmadeo-gaud&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi-brahmadeo-gaud" /> </p>
 
